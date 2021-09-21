@@ -1,0 +1,79 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	background-color: blue;
+	padding-top: 50px;
+	height: 308px;
+}
+
+h1 {
+	display: inline;
+	color: white;
+	position: relative;
+	left: 240px;
+}
+
+section {
+	position: relative;
+}
+
+p {
+	display: inline-block;
+	width: 428px;
+	font-size: 18px;
+	padding: 10px 51px 12px;
+	position: relative;
+	z-index: 1;
+	background-color: white;
+	border: 5px solid;
+	border-color: white;
+	border-radius: 10px;
+}
+
+.Rectangle1 {
+	position: absolute;
+	left: 240px;
+	top: -120px;
+}
+
+.Rectangle1_Text {
+	left: 255px;
+	top: 190px;
+}
+
+.Rectangle2 {
+	position: absolute;
+	left: 680px;
+	top: -200px;
+}
+
+.Rectangle2_Text {
+	left: 310px;
+	top: 144px;
+}
+
+.Rectangle3 {
+	position: absolute;
+	left: 1210px;
+	top: -120px;
+}
+
+.Rectangle3_Text {
+	left: 364px;
+	top: 190px;
+}
+
+.Rectangle4 {
+	position: absolute;
+	left: 1700px;
+	top: -120px;
+}
+
+.Rectangle4_Text {
+	left: 420px;
+	top: 190px;
+}
