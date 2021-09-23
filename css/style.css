@@ -44,7 +44,7 @@ p {
 .Rectangle1_Text {
 	left: 255px;
 	top: 190px;
-	font-family: Helvetica Neue Bold;
+	font-family: Helvetica Neue Regular;
 }
 
 .Rectangle2 {
@@ -56,7 +56,7 @@ p {
 .Rectangle2_Text {
 	left: 310px;
 	top: 144px;
-	font-family: Helvetica Neue Regular;
+	font-family: Helvetica Neue Bold;
 }
 
 .Rectangle3 {
